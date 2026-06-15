@@ -15,8 +15,8 @@ Berikut adalah contoh modul sederhana pada Python :
 
 ```python
 def print_func( par ):
-print "Halo : ", par
-return
+    print ("Halo : ", par)
+    return
 ```
 
 ### Import Statement
